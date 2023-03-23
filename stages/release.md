@@ -6,12 +6,11 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Release  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Release   | David  | Helen  | John  | Jimmy |
+|----------------------------- |-------- |-------- |-------- |-------- |
+| QA Testing                    |    AI     |   R      |   RC      |   R      |         
+| Automated testing              |    R     |    R     |    IC     |    R     |         
+| Performance tests            |    R     |    RC     |    I     |    A     | 
   
   
 [Home](../index.md)  
