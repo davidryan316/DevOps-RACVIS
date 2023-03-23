@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Build  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Build  | David  | Helen  | John  | Jimmy |
+|----------------------------- |-------- |-------- |-------- |-------- |
+| Product backlog              |    I     |   RA      |   R      |   C      |         
+| Product concept              |    A     |    R     |    IC     |    R     |         
+| Design framework             |    R     |    C     |    R     |    I     |         
+
   
   
 [Home](../index.md)  
