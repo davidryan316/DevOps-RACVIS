@@ -6,7 +6,7 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Deploy  | | David  | Helen  | John  | Jimmy |
+| Pipeline Stage:<br>Deploy    | David  | Helen  | John  | Jimmy |
 |----------------------------- |-------- |-------- |-------- |-------- |
 | Create automation scripts    |    A     |   RI      |   C      |   R      |         
 | Release                      |    R     |    RC     |    IR     |    A     |         
