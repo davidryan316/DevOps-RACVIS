@@ -9,7 +9,7 @@ Insert your description of the stage here
 | Pipeline Stage:<br>Release   | David  | Helen  | John  | Jimmy |
 |----------------------------- |-------- |-------- |-------- |-------- |
 | QA Testing                    |    AI     |   R      |   RC      |   R      |         
-| Automated testing              |    R     |    R     |    IC     |    R     |         
+| Automated testing              |    R     |    A     |    IC     |    R     |         
 | Performance tests            |    R     |    RC     |    I     |    A     | 
   
   
