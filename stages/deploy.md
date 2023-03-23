@@ -8,9 +8,9 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Deploy  | | David  | Helen  | John  | Jimmy |
 |----------------------------- |-------- |-------- |-------- |-------- |
-| Creating automation scripts               |    A     |   RI      |   C      |   R      |         
-| Release             |    R     |    RC     |    IR     |    A     |         
-| Infastructure             |    I     |    A     |    R     |    C     | 
+| Create automation scripts    |    A     |   RI      |   C      |   R      |         
+| Release                      |    R     |    RC     |    IR     |    A     |         
+| Security                     |    I     |    A     |    R     |    C     | 
   
   
 [Home](../index.md)  
