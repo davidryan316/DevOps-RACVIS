@@ -11,8 +11,8 @@ I – Informs after doing/execution (needs information about project’s progres
 |----------------------------- |
 | R              |    Responsible (executes)    |        
 | A              |    Accountable (checks out the result & carries responsibility)     |          
-| C            |   Consults before doing/execution (gives input before work is done, has an active role)     |  
-| I            |     Informs after doing/execution (needs information about project’s progress, decisions, has a passive role)     | 
+| C              |   Consults before doing/execution (gives input before work is done, has an active role)     |  
+| I              |     Informs after doing/execution (needs information about project’s progress, decisions, has a passive role)     | 
 
 Employees (Used for example purposes):
 David
