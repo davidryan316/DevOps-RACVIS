@@ -7,18 +7,20 @@ A – Accountable (checks out the result & carries responsibility);
 C – Consults before doing/execution (gives input before work is done, has an active role);
 I – Informs after doing/execution (needs information about project’s progress, decisions, has a passive role).
 
-| Acrynom:<br>Build  | Description  | 
-|----------------| --------- |
+| Acronyms       | Description  | 
+|----------------| ------------ |
 | R              |    Responsible (executes)    |        
 | A              |    Accountable (checks out the result & carries responsibility)     |          
 | C              |   Consults before doing/execution (gives input before work is done, has an active role)     |  
 | I              |     Informs after doing/execution (needs information about project’s progress, decisions, has a passive role)     | 
 
-Employees (Used for example purposes):
-David
-Helen
-John
-Jimmy
+| Employees      | Description| 
+|----------------| ---------  |
+| 1              |    David   |        
+| 2              |    Helen   |          
+| 3              |    John    |  
+| 4              |     Jimmy  | 
+
 
 
 ### Markdown
