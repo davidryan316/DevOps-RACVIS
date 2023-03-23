@@ -7,6 +7,12 @@ A – Accountable (checks out the result & carries responsibility);
 C – Consults before doing/execution (gives input before work is done, has an active role);
 I – Informs after doing/execution (needs information about project’s progress, decisions, has a passive role).
 
+| David  | Helen  | John  | Jimmy |
+|----------------------------- |-------- |-------- |-------- |-------- |
+| Product backlog              |    I     |   RA      |   R      |   C      |         
+| Product concept              |    A     |    R     |    IC     |    R     |         
+| Design framework             |    R     |    C     |    R     |    I     | 
+
 Employees (Used for example purposes):
 David
 Helen
