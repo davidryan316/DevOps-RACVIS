@@ -8,7 +8,7 @@ C – Consults before doing/execution (gives input before work is done, has an a
 I – Informs after doing/execution (needs information about project’s progress, decisions, has a passive role).
 
 | Acrynom:<br>Build  | Description  | 
-|----------------------------- |
+|-------------------- | --------- |
 | R              |    Responsible (executes)    |        
 | A              |    Accountable (checks out the result & carries responsibility)     |          
 | C              |   Consults before doing/execution (gives input before work is done, has an active role)     |  
